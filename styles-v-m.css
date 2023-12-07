@@ -47,7 +47,7 @@ footer {
 
 .logo_b1 {
     display: flex;
-    max-width: 100px;
+    max-width: 160px;
     height: auto;
     margin-left: 30px;
     margin-top: -35px;
@@ -83,7 +83,7 @@ main {
 
 /* Estilos para los botones del menu */
 .menu-button {
-    background-color: #FFF000;
+    background-color: #00cecf;
     color: #000000;
     border: none;
     border-radius: 5px;
@@ -98,7 +98,7 @@ main {
     position: relative;
 }
 .menu-button:hover {
-    background-color: #fff79b;
+    background-color: #c4ffff;
     color: #7C8686;
 }
 
@@ -171,7 +171,7 @@ main {
 
 /* Estilos para el botón de búsqueda */
 .search-button {
-    background-color: #FFF000;
+    background-color: #00cecf;
     color: #000000;
     border: none;
     border-radius: 0 10px 10px 0;
@@ -182,7 +182,7 @@ main {
     font-weight: bold;
 }
 .search-button:hover {
-    background-color: #fff79b;
+    background-color: #c4ffff;
     color: #7C8686;
 }
 /* Estilos para el botón de Incio de sesion */
@@ -221,7 +221,7 @@ main {
 .text2-PDP {
     font-weight: bold;
     text-align: right;
-    padding-right: 4.7%;
+    padding-right: 1%;
     margin-top: -5%;
 }
 
@@ -247,7 +247,6 @@ main {
 .carousel-item active d-item {
     width: 70%; 
 }
-
 
 @media screen and (max-width: 1129px) {
     .abrir_menu,
@@ -411,3 +410,4 @@ main {
     border: none; 
     cursor: pointer;
 }
+
